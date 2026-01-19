@@ -1,1 +1,1 @@
-console.log("Git workflow project initialized");
+console.log("Git workflow project initialized v2.0");
